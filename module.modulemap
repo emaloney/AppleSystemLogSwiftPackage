@@ -1,0 +1,5 @@
+module ASL [system] {
+    header "/usr/include/asl.h"
+    link "asl"
+    export *"
+}
